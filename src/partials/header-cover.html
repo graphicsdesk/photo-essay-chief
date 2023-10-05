@@ -1,0 +1,29 @@
+<div class="cover cover-hed">
+  <img src="{{ cover_asset }}" />
+
+  <header>
+    <h1 id="headline">{{ headline }}</h1>
+    <if condition="typeof deck !== 'undefined'">
+      <p class="deck">{{ deck }}</p>
+    </if>
+    <p class="byline">{{{ byline }}}</p>
+    <p class="byline">{{{ byline2 }}}</p>
+    <p class="pub-date">{{ date }}</p>
+  </header>
+</div>
+
+</div>
+
+<header id="small-window">
+  <img src="{{ cover_asset }}" />
+  <div class="small-header">
+    <h1 id="headline">{{ headline }}</h1>
+    <if condition="typeof deck !== 'undefined'">
+      <p class="deck">{{ deck }}</p>
+    </if>
+    <p class="byline inline-credits">{{{ byline }}}</p>
+    <p class="byline inline-credits">{{{ byline2 }}}</p>
+    <p class="pub-date">{{ date }}</p>
+  </div>
+  
+</header>

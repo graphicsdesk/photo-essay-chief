@@ -1,0 +1,263 @@
+{
+  "plugins": {
+    "posthtml-include": {
+      "root": "./src"
+    },
+    "posthtml-expressions": {
+      "root": "./src/partials",
+      "locals": {
+        "top": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The University on Wednesday announced Nemat “Minouche” Shafik, current director of the London School of Economics and Political Science, as its 20th president, concluding a <a href=\"https://www.columbiaspectator.com/news/2022/10/05/trustees-hope-to-finish-presidential-search-by-january/\">months-long search</a>."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/P1011688.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Jonathan Lavine, CC ’88, chair of the Board of Trustees and co-leader of the Presidential Search Committee, introduced the University to Shafik, describing her brilliance and emphasizing his confidence in Shafik to lead Columbia."
+          },
+          {
+            "type": "text",
+            "value": "“Simply put, Minouche presented a compelling and exciting view of what 21st-century universities need to do to be the best versions of themselves for generations to come. She saw in Columbia not only the potential to continue to be one of the great 21st-century universities, but actually voiced an obligation to lead the way,” Lavine said."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/P1011897.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "University President Lee Bollinger, who has led Columbia for 20 years, announced <a href=\"https://www.columbiaspectator.com/news/2022/04/14/after-two-decades-as-president-bollinger-to-step-down-in-2023/\">last April</a> that he would be stepping down from his post at the end of the 2022-2023 academic year."
+          },
+          {
+            "type": "text",
+            "value": "“When he was inaugurated president in 2002, the Columbia he inherited was a great institution facing an uncertain future,” Shafik said. “Two decades later, the University is vibrant, flourishing and world leading and shaping. Lee did what only the rarest and most capable stewards of institutions do.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/P1011715.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The crowd erupted in applause as Shafik walked up to the podium."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/P1011836.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In her address, Shafik recounted the journey that got her to Columbia—one defined by, as Shafik describes, “an insatiable appetite for learning.” She described the profound influence books had on her development during a childhood otherwise muddled by a lack of stability."
+          },
+          {
+            "type": "text",
+            "value": "“When you’re always the new kid, in a new town, at a new school, books become your constant friends. They certainly became mine,” she said. “One of my earliest favorites was a book called ‘From the Mixed-Up Files of Mrs. Basil E. Frankweiler,’ by the children’s author E. L. Konigsburg. It follows the stories of the siblings Claudia and James Kincaid as they ran away from home and took refuge in the Metropolitan Museum of Art here in New York. And while I expect to have some stressful days here at Columbia, I hope it doesn’t come to that.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/P1011838.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The president-elect outlined what she believes characterizes a great institution, emphasizing the importance of Columbia’s commitment to engaging with the nearby community and the rest of the world."
+          },
+          {
+            "type": "text",
+            "value": "“For me, attracting and retaining the world’s greatest scholars is the foundation on which everything else was built. Great teaching, great research, social impact, reputation, and philanthropy,” she said."
+          },
+          {
+            "type": "text",
+            "value": "“But I would also argue that what constitutes outstanding scholarship is expanding. The importance of open science, cross border collaborations, making the curriculum more inclusive, the opportunities around research commercialization, the importance of demonstrating impact—all of these have also come to define greatness … because many of the world’s biggest problems, be that climate change or pandemics, require a global perspective and international cooperation and collaboration,” she added."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/P1011941.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "After the announcement, Shafik took time to speak with many of the attendees of the event, including congressman Jerry Nadler, CC ’69."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/P1011698.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Sitting next to Shafik during the event were, from left to right, her husband Raffael Jovine, a molecular biologist, and her son."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/campustour.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Later in the day, Shafik was taken around Morningside by two Columbia tour guides."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/trusteeroom.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Shafik stands in front of the trustees’ conference room located in Low Library."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/almaowl.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "During her tour on campus, Shafik was challenged to find the elusive owl that lays hidden in Alma Mater, a feat she accomplished in a mere minute."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/scholarlion.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Shafik peeks through the Scholar’s Lion."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/minouchefam.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Shafik’s husband and son accompanied her for her trek through campus."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/minouchewave.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "As she walked by Low Steps, Shafik spotted a group of students waving at her, who cheered as the president-elect waved back at them."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/lerner.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Columbia hosted an forum with Shafik in Lerner, giving undergraduate students an opportunity to personally celebrate the president-elect."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/band.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "As Shafik made her way down the ramp, the University’s cheerleaders and spirit band cheered her on."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/jerseykd.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The University gifted Shafik a custom Columbia basketball jersey, presented by star women’s basketball player Kaitlyn Davis, CC ’22. The back of the jersey was labeled with her alias “Minouche” along with the number 20, signifying her incoming position as the 20th president."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/roaree.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Roar-ee and Shafik posed for pictures with a thumbs up."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/students.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Shafik spent time meeting and talking to various undergraduate students."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/minouche1.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Shafik will officially take over as University president on July 1, after she wraps up her final year at the London School of Economics and Political Science."
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "../assets/minouche2.jpg"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Andrew Park is the Managing Editor. He can be contacted at </i><a href=\"mailto:andrew.park@columbiaspectator.com\"><i>andrew.park@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Judy Goldstein is the Photo Editor. She can be contacted at </i><a href=\"mailto:judith.goldstein@columbiaspectator.com\"><i>judith.goldstein@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Pippa Tsuki Carlson is a Deputy Photo Editor. She can be contacted at </i><a href=\"mailto:pippa.tsukicarlson@columbiaspectator.com\"><i>pippa.tsukicarlson@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Jessica Samudio is a Deputy Photo Editor. She can be contacted at </i><a href=\"mailto:jessica.samudio@columbiaspectator.com\"><i>jessica.samudio@columbiaspectator.com</i></a><i>.</i>"
+          }
+        ],
+        "headline": "Nemat “Minouche” Shafik announced Columbia’s 20th president, in pictures",
+        "date": "January 18, 2023",
+        "byline": "By <a href=\"http://columbiaspectator.com/contributors/Andrew-Park\">Andrew Park</a>",
+        "byline2": "Photos by <a href=\"https://www.columbiaspectator.com/visual-contributors/Judy-Goldstein/\">Judy Goldstein</a>, <a href=\"https://www.columbiaspectator.com/visual-contributors/Pippa-Tsuki-Carlson/\">Pippa Tsuki Carlson</a>, and <a href=\"https://www.columbiaspectator.com/visual-contributors/Jessica-Samudio/\">Jessica Samudio</a>",
+        "cover_asset": "../assets/P1011819.jpg",
+        "Socials": "",
+        "Twitter/Facebook/WUC": "",
+        "USE_NEWS_NAV": true,
+        "USE_EYE_NAV": false,
+        "USE_COVER_HED": true,
+        "IS_EMBED": false,
+        "DOC_URL": "https://docs.google.com/document/d/12CVWZsA5J9F0qji2b_i03T3OHqO2utxa-GmMX69nxEk/edit#"
+      }
+    }
+  }
+}
